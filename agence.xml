@@ -1,0 +1,1647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<client code="1222">
+  <adresse>
+    <voirie>Bonafé Closse Automobile</voirie>
+    <code_postal>08000</code_postal>
+    <ville>Villers-Semeuse</ville>
+  </adresse>
+  <coordonnees>
+    <raison_sociale>Bonafé Closse Automobile</raison_sociale>
+    <telephone>0375760007</telephone>
+    <fax>0325753625</fax>
+    <email>agenceautomobile08@gmail.com</email>
+    <web>agence-automobile08.fr</web>
+  </coordonnees>
+  <annonce id="1158306">
+    <reference><![CDATA[1158]]></reference>
+    <date_saisie>23/12/2021</date_saisie>
+    <titre><![CDATA[Audi Q2 35 TDI 150ch Sport S tronic 7 Euro6d-T]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Appel dUrgence Localise - Kit mainslibres Bluetooth - Lecteur carte SD - Lecteur CD - Prise auxiliaire de connexion audio - Radio - Aide au demarrage en cote - Arret et redemarrage auto. du moteur - Blocage electronique du differentiel - Capteur de luminosite - Capteur de pluie - Commande du comportement dynamique - Regulateur de vitesse - Boucliers AV et AR couleur caisse - Coffre assiste electriquement - Echappement a double sortie - Essuieglace arriere - Feux de jour a LED - Filtre a particules - Jantes Alu - Poignees ton carrosserie - Radar de stationnement AR - Repetiteurs de clignotant dans retro ext - Retroviseurs degivrants - Retroviseurs electriques - Retroviseurs rabattables automatique - Retroviseurs rabattables electriquement - Sortie dechappement chromee - Accoudoir central AV - Appuitete conducteur reglable hauteur - Appuitete passager reglable en hauteur - Bacs de portes arriere - Bacs de portes avant - Banquette AR rabattable - Banquette 1323 - Boite a gant fermee - Clim automatique - Compte tours - Eclairage dambiance - Filtre a Pollen - Fixations Isofix aux places arrieres - Kit Fumeur - Lampe de coffre - Ordinateur de bord - Siege conducteur reglable en hauteur - Siege passager reglable en hauteur - Sieges avant sport - Verrouillage centralise a distance - Verrouillage centralise des portes - Vitres arriere electriques - Vitres avant electriques - Volant cuir - Volant multifonction - Volant reglable en profondeur et hauteur - ABS - Airbag conducteur - Airbag passager deconnectable - Airbags lateraux avant - Airbags rideaux - Antidemarrage electronique - Antipatinage - Ceintures avant ajustables en hauteur - Controle elect. de la pression des pneus - EBD - ESP - Freinage automatique durgence - Systeme de prevention des collisions - Temoin de bouclage des ceintures AV - Troisieme ceinture de securite - Cle confort : 440 € TTC - Audi pre sense basic : 230 € TTC - Pack exterieur S line : 1660 € TTC - Phares a LED : 1400 € TTC - Hayon electrique : 550 € TTC - Sieges avant chauffants : 370 € TTC - Pack eclairage dambiance : 440 € TTC - Pack Brillance noir Audi exclusive : 510 € TTC - Alarme antivol : 420 € TTC - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6287aaacd2b5a_281588968_993582564676854_5761737573759782873_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6287aaaaae7fa_281113084_1232472574230839_5404767033446609633_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6287aaa7e7652_280646678_701478254475536_4385338492014505476_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6287aaa5490cf_280058999_3171065546484594_5746999201787299845_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6287aaaa9f0e9_281092169_693806101854538_3645078156049035514_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6287aaa7e1104_280448432_830249637926576_6704943586420250170_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6287aaad18c46_281749270_559665772497070_9018494064505894428_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6287aaa5497e2_266701056_441868320718154_4876459113871531014_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11000</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>23/07/2020</mise_en_circulation>
+      <numero_immatriculation>GC388PN</numero_immatriculation>
+      <millesime>2020</millesime>
+      <kilometrage>28000</kilometrage>
+      <nb_rapports>7</nb_rapports>
+      <boite_de_vitesse>automatique</boite_de_vitesse>
+      <marque><![CDATA[Audi]]></marque>
+      <modele><![CDATA[Audi Q2]]></modele>
+      <carrosserie><![CDATA[4X4]]></carrosserie>
+      <energie><![CDATA[GAZOLE]]></energie>
+      <couleur><![CDATA[BLANC]]></couleur>
+      <cylindree>1968</cylindree>
+      <version><![CDATA[35 TDI 150ch Sport S tronic 7 Euro6d-T]]></version>
+      <emission_co2>116</emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places>5</nb_places>
+      <poids>1390</poids>
+      <puissance_fiscale>8</puissance_fiscale>
+      <puissance_reelle>150</puissance_reelle>
+      <numero_serie>WAUZZZGA7LA010908</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>30990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1303805">
+    <reference><![CDATA[1303]]></reference>
+    <date_saisie>09/03/2022</date_saisie>
+    <titre><![CDATA[Peugeot Expert 1.6 HDI 90 CV 3 PLACES ]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => VENTE EN LETAT  - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/622f57d1bd5a2_275550390_951683155483786_945553125851245808_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/622f57ded9793_275673337_338579411545601_3834990717021423642_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/622f57dc1e3a5_275639308_900496753960368_2403210538432722720_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/622f57e294736_275765082_513612226831209_1118512845253223163_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/622f57e5407f5_275797934_258346593045421_3187457764467871174_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/622f57d86e49d_275623262_2799885410312910_4045524813853738889_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/622f57d1bba02_275521946_4983076365113684_5395415130818300693_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>12100</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>27/03/2007</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2007</millesime>
+      <kilometrage>271452</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Peugeot]]></marque>
+      <modele><![CDATA[Peugeot Expert]]></modele>
+      <carrosserie><![CDATA[utilitaire]]></carrosserie>
+      <energie><![CDATA[]]></energie>
+      <couleur><![CDATA[Bleu]]></couleur>
+      <cylindree>1560</cylindree>
+      <version><![CDATA[1.6 HDI 90 CV 3 PLACES ]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle></puissance_reelle>
+      <numero_serie>VF3XS9HUC64040215</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>1500</prix>
+      <prix_marchand>1990</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>  Vente à marchand sans garantie</garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1383564">
+    <reference><![CDATA[1383]]></reference>
+    <date_saisie>28/04/2022</date_saisie>
+    <titre><![CDATA[Audi Rs6 Avant 4.0 V8 TFSI 605ch performance]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Appel dAssistance Localise - Appel dUrgence Localise - Borne WiFi - Commandes du systeme audio au volant - Disque dur multimedia - Fonction MP3 - GPS Cartographique - Kit mainslibres Bluetooth - Lecteur carte SD - Lecteur CD - Lecteur DVD - Navigateur Internet - Prise auxiliaire de connexion audio - Prise iPod - Prise USB - Radio - Services connectes - Systeme de localisation par satellite - Systeme HiFi Surround - TMC - Volume automatique de la radio - 14 Haut parleurs - Affichage tete haute - Aide au demarrage en cote - Arret et redemarrage auto. du moteur - Blocage electronique du differentiel - Capteur de luminosite - Capteur de pluie - Chassis Sport - Demarrage sans cle - Follow me home - Palettes changement vitesses au volant - Regulateur de vitesse - Suspension adaptative - Suspensions Sport - Systeme dassistance a la descente - Barres de toit - Boucliers AV et AR couleur caisse - Camera de recul - Catadioptres actifs - Coffre assiste electriquement - Echappement a double sortie - Eclairage au sol - Essuieglace arriere - Feux arriere a LED - Feux de freinage durgence - Feux de jour a LED - Jantes Alu - Lavephares - Phares avant LED - Phares de route adaptatifs - Radar de stationnement AR - Radar de stationnement AV - Repetiteurs de clignotant dans retro ext - Retroviseurs degivrants - Retroviseurs electriques - Retroviseurs exterieurs a memoire - Retroviseurs exterieurs electrochromes - Retroviseurs rabattables electriquement - Sortie dechappement chromee - Systeme declairage intelligent - Velum rang 1 - Accoudoir central AR avec trappe a skis - Accoudoir central AV avec rangement - Bacs de portes avant - Banquette AR rabattable - Banquette arriere 3 places - Banquette 6040 - Boite a gant fermee - Clim automatique arriere - Clim automatique quatrezones - Colonne de direction electr. a memoire - Commande Climatisation AR - Compte tours - Ecran multifonction couleur - Filets de coffre - Filtre a Pollen - Fixations Isofix aux places arrieres - Inserts de porte carbone - Inserts de tableau de bord carbone - Kit Fumeur - Lampes de lecture a lavant - Lunette AR degivrante - Miroir de courtoisie conducteur eclaire - Miroir de courtoisie passager eclaire - Ordinateur de bord - Ouverture des vitres sequentielle - Parebrise thermique - Poches daumonieres - Pommeau de levier vitesse en cuir - Portegobelets arriere - Portegobelets avant - Prise 12V - Retroviseur interieur electrochrome - Siege conducteur a memoire - Siege conducteur avec reglable lombaire - Siege conducteur chauffant - Siege conducteur electrique - Siege conducteur reglable en hauteur - Siege passager a reglages electriques - Siege passager avec reglage lombaire - Siege passager chauffant - Siege passager reglable en hauteur - Sieges avant sport - Tablette cache bagages - Temperature exterieure - Verrouillage auto. des portes en roulant - Verrouillage centralise a distance - Verrouillage centralise des portes - Vitres arriere electriques - Vitres avant electriques - Vitres teintees - Volant cuir - Volant multifonction - Volant reglable en profondeur et hauteur - Volant sport - ABS - Aide au freinage durgence - Airbag conducteur - Airbag passager - Airbags lateraux avant - Airbags rideaux AV et AR - Antidemarrage electronique - Antipatinage - Ceintures avant ajustables en hauteur - Controle elect. de la pression des pneus - EBD - ESP - Preparation Isofix - Temoin de bouclage des ceintures AV - Troisieme ceinture de securite - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/626aadc1f01b9_279035478_383756550328284_5402625915602861280_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/626aadbf4a02b_278597254_663700791586689_7384499982136034796_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/626aadc1ee03e_278532616_1128980464339892_4478128176720388669_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/626aadba89669_278348178_285820113753831_8351075521671695191_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/626aadbf4fc37_278812580_693944678557679_5851029490200314362_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/626aadbce1a8a_279160765_396883102059931_4969323690091970854_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/626aadbcdc57f_278380930_748361129674412_6247952414132523084_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/626aadb80fd2d_279308093_1883224271873525_4647168730283580445_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/626aadba8988b_278739332_2813151115653181_1970099875570452358_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/626aadb80fd29_278792355_3100510596855807_3075954269074818222_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11200</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>19/07/2017</mise_en_circulation>
+      <numero_immatriculation>EP186GJ</numero_immatriculation>
+      <millesime>2017</millesime>
+      <kilometrage>75000</kilometrage>
+      <nb_rapports>8</nb_rapports>
+      <boite_de_vitesse>automatique</boite_de_vitesse>
+      <marque><![CDATA[Audi]]></marque>
+      <modele><![CDATA[Audi Rs6 Avant]]></modele>
+      <carrosserie><![CDATA[Break]]></carrosserie>
+      <energie><![CDATA[ESSENCE]]></energie>
+      <couleur><![CDATA[GRIS]]></couleur>
+      <cylindree>3993</cylindree>
+      <version><![CDATA[4.0 V8 TFSI 605ch performance]]></version>
+      <emission_co2>223</emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places>5</nb_places>
+      <poids>1950</poids>
+      <puissance_fiscale>52</puissance_fiscale>
+      <puissance_reelle>605</puissance_reelle>
+      <numero_serie>WUAZZZ4G3HN903267</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>79990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1414498">
+    <reference><![CDATA[1414]]></reference>
+    <date_saisie>14/05/2022</date_saisie>
+    <titre><![CDATA[Audi R8  4.2 V8 FSI 430ch R tronic 6]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Radio CD MP3 - Jantes Alu - Phares bixenon - Retroviseurs electriques degivrants - Clim automatique - Direction assistee - Fixations Isofix aux places arrieres - Ordinateur de bord - Retroviseur interieur electrochrome - Verrouillage centralise des portes - Vitres avant electriques - Sellerie cuir  alcantara - ABS - Airbags frontaux - Airbags lateraux avant - Antipatinage - Detecteur de sousgonflage - ESP - Phares antibrouillard - Chargeur CD : 500 € TTC - GPS Cartographique : 2 700 € TTC - Radar de stationnement AV et AR : 920 € TTC - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/627fb02fdc9d8_280388821_1152357595544901_5705905512143916131_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/627fb02ae4c6a_279825134_996521531250832_318049260674543824_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/627fb02870a62_279597525_5272475772860257_7721519506348773413_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/627fb02d65ca0_279866346_396084249095093_4255003914544483393_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/627fb02d664ed_279901271_314342670708618_4288113456165428447_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/627fb02fdbacc_279929343_535276444919467_8821866662622267206_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/627fb028705dc_279521069_3262209900766702_5899489349120974318_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/627fb03229649_280538758_539065284467953_6189763752040697715_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/627fb02aee7db_279841835_820755515980630_8769816796815505023_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11510</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>09/11/2007</mise_en_circulation>
+      <numero_immatriculation>CD378LY</numero_immatriculation>
+      <millesime>2007</millesime>
+      <kilometrage>74500</kilometrage>
+      <nb_rapports>6</nb_rapports>
+      <boite_de_vitesse>automatique</boite_de_vitesse>
+      <marque><![CDATA[Audi]]></marque>
+      <modele><![CDATA[Audi R8]]></modele>
+      <carrosserie><![CDATA[coupé]]></carrosserie>
+      <energie><![CDATA[ESSENCE]]></energie>
+      <couleur><![CDATA[NOIR]]></couleur>
+      <cylindree>4163</cylindree>
+      <version><![CDATA[ 4.2 V8 FSI 430ch R tronic 6]]></version>
+      <emission_co2>325</emission_co2>
+      <nb_portes>2</nb_portes>
+      <nb_places>2</nb_places>
+      <poids>1565</poids>
+      <puissance_fiscale>34</puissance_fiscale>
+      <puissance_reelle>420</puissance_reelle>
+      <numero_serie>WUAZZZ4268N002947</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>52990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1615412">
+    <reference><![CDATA[1615]]></reference>
+    <date_saisie>08/09/2022</date_saisie>
+    <titre><![CDATA[Citroën Berlingo II 1.6 HDi75 Multispace 5p]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Retroviseurs electriques degivrants - 2 Portes laterales coulissantes - Banquette 1323 - Direction assistee - Verrouillage centralise a distance - Verrouillage centralise des portes - Vitres avant electriques - Volant reglable en profondeur et hauteur - ABS - Airbags frontaux - Airbags lateraux avant - Climatisation - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/631a1183ac6d8_IMG_2338.JPG</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/631a1183b0a28_IMG_2340.JPG</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/631a118bd2c05_IMG_2343.JPG</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/631a118f96533_IMG_2344.JPG</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/631a1192cde00_IMG_2346.JPG</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/631a119697899_IMG_2348.JPG</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11000</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>11/12/2009</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2009</millesime>
+      <kilometrage>127000</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Citroën]]></marque>
+      <modele><![CDATA[Citroën Berlingo]]></modele>
+      <carrosserie><![CDATA[combi]]></carrosserie>
+      <energie><![CDATA[DIESEL]]></energie>
+      <couleur><![CDATA[BLEU]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[II 1.6 HDi75 Multispace 5p]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle>75</puissance_reelle>
+      <numero_serie>VF77J9HTC9J246752</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>7990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1629934">
+    <reference><![CDATA[1629]]></reference>
+    <date_saisie>14/09/2022</date_saisie>
+    <titre><![CDATA[Citroën C4 Picasso II BlueHDi 120ch Feel S&S]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => CITROEN Connect Nav avec CITROEN Connect Box - Appel dAssistance Localise - Appel dUrgence Localise - Commandes du systeme audio au volant - Ecran couleur - Ecran tactile - GPS Cartographique - Kit mainslibres Bluetooth - Prise USB - Radio - Services connectes - 6 Haut parleurs - Systeme audio bituner RDS MP3 - Fonction MP3 - Ecran tactile - Kit mainslibres Bluetooth - Mirror Screen - Prise auxiliaire de connexion audio - Prise USB - Volume automatique de la radio - Aide au demarrage en cote - Allumage des phares automatique - Arret et redemarrage auto. du moteur - Capteur de pluie - Frein stationnement electrique automatiq - Limiteur de vitesse - Regulateur de vitesse - Tissu Milazzo Grey - Gris - Noir - Sellerie tissu - Becquet arriere - Boucliers AV et AR couleur caisse - Ceinture de vitrage chromee - Eclairage statique dintersection - Essuieglace arriere - Feux de freinage durgence - Feux de jour a LED - Filtre a particules - Jantes Alu - Parebrise acoustique - Phares halogenes - Radar de stationnement AR - Radar de stationnement AV - Repetiteurs de clignotant dans retro ext - Retroviseurs degivrants - Retroviseurs electriques - Retroviseurs rabattables electriquement - Vitres arriere et lunette AR surteintees - Vitres et lunette arriere surteintees - Accoudoir arriere - Accoudoir central AV - Bacs de portes arriere - Bacs de portes avant - Banquette AR rabattable - Boite a gant fermee - Clim automatique bizones - Compte tours - Direction assistee asservie a la vitesse - Ecran multifonction couleur - Filtre a Pollen - Lampe de coffre - Lampes de lecture a larriere - Lampes de lecture a lavant - Miroir de courtoisie conducteur - Miroir de courtoisie passager - Ordinateur de bord - Ouverture des vitres sequentielle - Parebrise thermique - Poches daumonieres - Prise 12V - Siege conducteur reglable en hauteur - Siege passager reglable en hauteur - Sieges arriere coulissants - Sieges rang 2 inclinables - Sieges rang 2 rabattables a plat - Tablette arriere - Tablette cache bagages - Temperature exterieure - Verrouillage auto. des portes en roulant - Verrouillage centralise a distance - Verrouillage centralise des portes - Vitres arriere electriques - Vitres avant electriques - Vitres teintees - Volant cuir - Volant multifonction - Volant reglable en profondeur et hauteur - 3 sieges individuels en rang 2 - Pack Safety - AFIL - Reconnaissance panneaux de signalisation - Retroviseur interieur electrochrome - Systeme de detection de somnolence - Systeme declairage intelligent - ABS - Aide au freinage durgence - Airbag conducteur - Airbag passager deconnectable - Airbags lateraux avant - Airbags rideaux AV et AR - Antidemarrage electronique - Antipatinage - Ceintures avant ajustables en hauteur - Controle de Traction Intelligent - Detecteur de sousgonflage - ESP - Phares antibrouillard - Preparation Isofix - Repartiteur electronique de freinage - Troisieme ceinture de securite - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6321cba42b0ac_306417909_401846102025630_7874281367117280675_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6321cbba19ee8_306721057_830756758283643_1487260986240056243_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6321cbbec3224_306749708_643555820538873_4917138461602111891_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6321cbb3a0911_306582731_532565955300272_5923943074624344842_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6321cba42a2e1_306351993_1350066348735602_7639159683871723466_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6321cbab2cf39_306501342_614607563568331_4861256925994887315_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6321cbb8493e1_306657853_1029565967718802_3741865509788633030_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6321cbad0eec5_306542983_3421952228027787_2644776045084213518_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6321cbb1bc419_306553029_424229099809881_9073023125966901973_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11000</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>23/05/2017</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2017</millesime>
+      <kilometrage>95800</kilometrage>
+      <nb_rapports>6</nb_rapports>
+      <boite_de_vitesse>automatique</boite_de_vitesse>
+      <marque><![CDATA[Citroën]]></marque>
+      <modele><![CDATA[Citroën C4 Picasso]]></modele>
+      <carrosserie><![CDATA[combi]]></carrosserie>
+      <energie><![CDATA[DIESEL]]></energie>
+      <couleur><![CDATA[GRIS]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[II BlueHDi 120ch Feel S&S]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle>120</puissance_reelle>
+      <numero_serie>VF73ABHXTGJ856659</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>14990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1652157">
+    <reference><![CDATA[1652]]></reference>
+    <date_saisie>23/09/2022</date_saisie>
+    <titre><![CDATA[Ford C Max II 1.6 TDCi 95ch FAP Titanium]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Commandes vocales - Kit mainslibres Bluetooth - Lecteur carte SD - Prise USB - Commandes du systeme audio au volant - Radio CD MP3 - Aide au demarrage en cote - Allumage des phares automatique - Capteur de pluie - Demarrage sans cle - Pont a vecteur de couple - RegulateurLimiteur de vitesse - Becquet arriere - Filtre a particules - Retros elec. degivrants et rabattables - Systeme Diagoflex - Banquette 402040 - Direction assistee electrique - Fixations Isofix aux places arrieres - Kit Fumeur - Levier vitesse cuir - Lunette AR degivrante - Ordinateur de bord - Portegobelets avant - Prise 12V - Retroviseur interieur electrochrome - Siege conduct  reglable hauteurlombaire - Siege passager reglable hauteurlombaire - Tablette cache bagages - Verrouillage centralise a distance - Vitres arriere electriques - Vitres avant electriques - Volant cuir - Volant reglable en profondeur et hauteur - ABS - Aide au freinage durgence - Airbags frontaux - Airbags lateraux avant - Airbags rideaux - Antivol - Detecteur de sousgonflage - ESP - Kit de depannage pneumatique - Phares antibrouillard - Repartiteur electronique de freinage - Climatisation  - Feux de jour : 100 € TTC - Peinture metal : 550 € TTC - Vitres arriere teintees : 130 € TTC - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/632db328cb03b_307696853_815128649643269_5247106955672380067_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/632db3223bce6_307511731_784184993030928_1231091131381394612_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/632db339e0444_307935699_6133468670000584_3334756172107940239_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/632db3408d27c_308036229_881400349504667_174687971855848110_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/632db32241d4c_307514747_793614348653408_7019136715181839429_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/632db32f60761_307773637_2140434139450650_6248469544598966080_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/632db33a2190c_307805441_2046054855785093_4888973989960302928_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/632db329091c5_307631908_469821525069738_7134036119375336848_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11100</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>15/06/2011</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2011</millesime>
+      <kilometrage>159000</kilometrage>
+      <nb_rapports>6</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Ford]]></marque>
+      <modele><![CDATA[Ford C Max]]></modele>
+      <carrosserie><![CDATA[berline]]></carrosserie>
+      <energie><![CDATA[]]></energie>
+      <couleur><![CDATA[noir ]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[II 1.6 TDCi 95ch FAP Titanium]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle></puissance_reelle>
+      <numero_serie>WF0HXXWPBHBL74692</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>5990</prix>
+      <prix_marchand>6000</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1655680">
+    <reference><![CDATA[1655]]></reference>
+    <date_saisie>26/09/2022</date_saisie>
+    <titre><![CDATA[Skoda Citigo  1.0 MPI 60ch Ambition 5p]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Fonction MP3 - Lecteur carte SD - Lecteur CD - Prise auxiliaire de connexion audio - Prise USB - 2 Haut parleurs - Aide au demarrage en cote - Blanc Candy - Becquet arriere - Boucliers AV et AR couleur caisse - Enjoliveurs - Essuieglace arriere - Feux de freinage durgence - Feux de jour - Feux de jour a LED - Phares halogenes - Poignees ton carrosserie - Retroviseurs exterieurs a reglage manuel - Bacs de portes avant - Banquette AR rabattable - Banquette 2 places - Banquette 6040 - Boite a gant fermee - Direction assistee asservie a la vitesse - Kit Fumeur - Miroir de courtoisie passager - Portegobelets arriere - Portegobelets avant - Prise 12V - Siege conducteur reglable en hauteur - Sieges rang 2 rabattables a plat - Tablette cache bagages - Verrouillage centralise a distance - Vitres avant electriques - Vitres teintees - Volant reglable en hauteur - ABS - Aide au freinage durgence - Airbag conducteur - Airbag passager - Airbags lateraux avant - Antidemarrage electronique - Antipatinage - Controle elect. de la pression des pneus - EBD - ESP - Kit anticrevaison - Preparation Isofix - 4 HP suppl.# : 110 € TTC - Pack Visibilite Assistance au freinage durgence en ville City Safe Drive Allumage automatique des feux Detecteur de pluie : 280 € TTC - Interieur Noir : 0 € TTC - Ordinateur de bord : 70 € TTC - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6332c6634b273_306637819_681568186810726_4113616259480733195_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6332c66599925_308217036_882611752710746_7179147818993886944_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6332c66a9f5d2_308792160_1127499894861309_5154158652087304466_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6332c665a9331_308329730_3393832694180401_7189228683794686387_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6332c66820e58_308613462_1112402722711771_2156688617535398193_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6332c66336954_296160823_1103293400309900_3302944823389396276_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6332c6682038c_308482807_780169853264426_20801447681606548_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11100</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>05/04/2019</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2019</millesime>
+      <kilometrage>10050</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Skoda]]></marque>
+      <modele><![CDATA[Skoda Citigo]]></modele>
+      <carrosserie><![CDATA[berline]]></carrosserie>
+      <energie><![CDATA[essence]]></energie>
+      <couleur><![CDATA[blanc ]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[ 1.0 MPI 60ch Ambition 5p]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle></puissance_reelle>
+      <numero_serie>TMBZZZAAZKD620070</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>7990</prix>
+      <prix_marchand>8000</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1659941">
+    <reference><![CDATA[1659]]></reference>
+    <date_saisie>27/09/2022</date_saisie>
+    <titre><![CDATA[Mitsubishi Pajero II 3.2 Di-D170 30ème Anniv BA 3p]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Commandes du systeme audio au volant - Radio CD - Jantes Alu - Phares xenon - Clim automatique - Direction assistee - Ordinateur de bord - Retroviseur interieur electrochrome - Sieges avant chauffants - Verrouillage centralise a distance - Vitres avant electriques - Sellerie cuir - ABS - Airbags frontaux - Airbags lateraux avant - Airbags rideaux - Antipatinage - ESP - Phares antibrouillard - Peinture metal : 650 € TTC - different mode de 4X4 - 2 places  - <br><br>premiere main <br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/633309a078cd7_308392487_1521911691608161_8401715169800152598_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/633309a06d483_308443780_639549887662425_8713392291547053307_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/633309a58a351_308880179_636576171156148_540542044391267719_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6333099de498f_307920615_564576505427258_1157769435946297773_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/633309a58aa49_308900516_613878057084358_6557577496072559566_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6333099de43ff_307921250_1247475592708499_5869293452301700054_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/633309a30e84a_308562271_1274853063278501_8469037750206149705_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/633309a30bc5e_308507162_466515425438559_4134481066869356073_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11100</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>27/02/2009</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2009</millesime>
+      <kilometrage>119869</kilometrage>
+      <nb_rapports>6</nb_rapports>
+      <boite_de_vitesse>automatique</boite_de_vitesse>
+      <marque><![CDATA[Mitsubishi]]></marque>
+      <modele><![CDATA[Mitsubishi Pajero]]></modele>
+      <carrosserie><![CDATA[berline]]></carrosserie>
+      <energie><![CDATA[diesel]]></energie>
+      <couleur><![CDATA[vert]]></couleur>
+      <cylindree>3200</cylindree>
+      <version><![CDATA[II 3.2 Di-D170 30ème Anniv BA 3p]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>3</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle></puissance_reelle>
+      <numero_serie>JMBMYV88W8J401364</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>16990</prix>
+      <prix_marchand>18000</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1692181">
+    <reference><![CDATA[1692]]></reference>
+    <date_saisie>17/10/2022</date_saisie>
+    <titre><![CDATA[Peugeot 207  1.4 VTi 16v Active 3p]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Radio CD MP3 WIP Sound - Commandes du systeme audio au volant - Prise auxiliaire de connexion audio - Radio CD MP3 - Retroviseurs electriques degivrants - Banquette 1323 - Clim manuelle - Direction electrique assistance variable - Fixations Isofix aux places arrieres - Ordinateur de bord - Siege conducteur reglable en hauteur - Verrouillage auto. des portes en roulant - Verrouillage centralise des portes - Vitres avant electriques - Volant reglable en profondeur et hauteur - ABS - Aide au freinage durgence - Airbags frontaux - Airbags lateraux avant - Kit de depannage pneumatique - Peinture metal : 400 € TTC - Airbags rideaux : 250 € TTC - ESP : 500 € TTC - Roue de secours : 70 € TTC - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/634d4b9f9fb7e_311941792_1258927444944728_6854687304795210203_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/634d4b9051b72_309587615_695043218160850_2762995135783190601_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/634d4ba3aba09_311915117_482297010493790_9081551001244914493_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/634d4b90b0388_311420339_2278716725636406_3967109782979336177_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/634d4b970dc35_311886718_785219619431614_1775932403559188790_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/634d4b96e52d2_311877030_1239535130159670_5127424567903389935_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11100</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>27/01/2009</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2009</millesime>
+      <kilometrage>59000</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Peugeot]]></marque>
+      <modele><![CDATA[Peugeot 207]]></modele>
+      <carrosserie><![CDATA[berline]]></carrosserie>
+      <energie><![CDATA[essence]]></energie>
+      <couleur><![CDATA[gris]]></couleur>
+      <cylindree>1568</cylindree>
+      <version><![CDATA[ 1.4 VTi 16v Active 3p]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>3</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle></puissance_reelle>
+      <numero_serie>VF3WA8FSL9T001237</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>6990</prix>
+      <prix_marchand>5500</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1705748">
+    <reference><![CDATA[1705]]></reference>
+    <date_saisie>24/10/2022</date_saisie>
+    <titre><![CDATA[Peugeot 208  1.2 PureTech 68ch Like 3p]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Prise Jack - Prise USB - Radio - 2 Haut parleurs - Aide au demarrage en cote - Limiteur de vitesse - Regulateur de vitesse - Boucliers AV et AR couleur caisse - Essuieglace arriere - Feux arriere a LED - Feux de freinage durgence - Phares halogenes - Repetiteurs de clignotant dans retro ext - Retroviseurs exterieurs a reglage manuel - Sticker - Bacs de portes avant - Banquette AR rabattable - Banquette arriere monobloc - Banquette arriere 3 places - Boite a gant fermee - Climatisation manuelle - Compte tours - Filtre a Pollen - Lampe de coffre - Miroir de courtoisie conducteur - Miroir de courtoisie passager - Ordinateur de bord - Ouverture des vitres sequentielle - Prise 12V - Siege conducteur reglable en hauteur - Tablette cache bagages - Temperature exterieure - Verrouillage auto. des portes en roulant - Verrouillage centralise a distance - Vitres avant electriques - Vitres teintees - Volant reglable en profondeur et hauteur - ABS - Aide au freinage durgence - Airbag conducteur - Airbag passager deconnectable - Airbags lateraux avant - Airbags rideaux AV et AR - Antidemarrage electronique - Antipatinage - Detecteur de sousgonflage indirect - EBD - ESP - Kit anticrevaison - Preparation Isofix - Troisieme ceinture de securite - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356ab5066570_312321048_476647134532029_7018311029031024954_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356ab50688a8_312810382_3248850948689823_8565570340897420466_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356ab53d283d_311471796_525471308982464_4509882687168318276_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356ab542252f_312547019_499667488721200_500028649685472811_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356ab56b2dd3_307179808_2035404306849817_4317810771173378546_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356ab5924394_312895530_795711358210558_7077214112378831561_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356ab593194a_312417616_647745293383550_6018373254752642030_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356ab5b824ff_312510379_826946388753036_8904432461399848448_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356ab56d8680_312315445_1140375180215011_1098421498197434554_njpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11000</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>04/06/2018</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2018</millesime>
+      <kilometrage>42000</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Peugeot]]></marque>
+      <modele><![CDATA[Peugeot 208]]></modele>
+      <carrosserie><![CDATA[coupé]]></carrosserie>
+      <energie><![CDATA[ES]]></energie>
+      <couleur><![CDATA[BLEU]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[ 1.2 PureTech 68ch Like 3p]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>3</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle>68</puissance_reelle>
+      <numero_serie>VF3CAHMP6JW059775</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>10990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1706213">
+    <reference><![CDATA[1706]]></reference>
+    <date_saisie>24/10/2022</date_saisie>
+    <titre><![CDATA[Peugeot 208  1.0 VTi Access 3p]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Limiteur de vitesse - Regulateur de vitesse - Boucliers AV et AR couleur caisse - Essuieglace arriere - Feux de freinage durgence - Phares halogenes - Repetiteurs de clignotant dans retro ext - Retroviseurs exterieurs a reglage manuel - Bacs de portes avant - Banquette AR rabattable - Banquette arriere monobloc - Banquette arriere 3 places - Boite a gant fermee - Compte tours - Filtre a Pollen - Kit Fumeur - Lampe de coffre - Miroir de courtoisie conducteur - Miroir de courtoisie passager - Ordinateur de bord - Prise 12V - Siege conducteur reglable en hauteur - Tablette cache bagages - Temperature exterieure - Verrouillage auto. des portes en roulant - Verrouillage centralise a distance - Vitres avant electriques - Vitres teintees - Volant reglable en profondeur et hauteur - ABS - Aide au freinage durgence - Airbag conducteur - Airbag passager deconnectable - Airbags lateraux avant - Airbags rideaux AV et AR - Antidemarrage electronique - Antipatinage - EBD - ESP - Kit anticrevaison - Preparation Isofix - Troisieme ceinture de securite - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356b1de16864_312708617_1849480888718907_5992836507575900380_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356b1e3aa890_311229350_631133675339977_7592673944078144764_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356b1e0bf223_312112732_2702503920279578_7068288724109329584_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356b1de1d27e_312536254_383282790595054_2505620493223910508_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356b1e0be840_312826314_865867024578807_2747283274878366666_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356b1e59c003_312805780_791691535453140_4203003237896534130_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356b1e34dd46_312319147_805565177347604_3901274616892105194_njpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6356b1e62195b_312668658_805168337428448_2332636837811944599_njpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11000</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>24/04/2013</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2013</millesime>
+      <kilometrage>74800</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Peugeot]]></marque>
+      <modele><![CDATA[Peugeot 208]]></modele>
+      <carrosserie><![CDATA[coupé]]></carrosserie>
+      <energie><![CDATA[ES]]></energie>
+      <couleur><![CDATA[BLANC]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[ 1.0 VTi Access 3p]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>3</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle>68</puissance_reelle>
+      <numero_serie>VF3CAZMZ0DT088019</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>8990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1730751">
+    <reference><![CDATA[1730]]></reference>
+    <date_saisie>10/11/2022</date_saisie>
+    <titre><![CDATA[Citroën C3 II 1.6 HDi90 (92) FAP  Confort]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Systeme audio CD MP3 4HP+prise Jack - Prise Jack - Radio CD MP3 4HP - Enjoliveurs - Retroviseurs electriques - Pack Clim CD - Clim manuelle - Banquette 1323 - Direction assistee - Fixations Isofix aux places arrieres - Ordinateur de bord - Prise 12V - Siege conducteur reglable en hauteur - Verrouillage auto. des portes en roulant - Verrouillage centralise a distance - Verrouillage centralise des portes - Vitres avant electriques - Volant cuir - Volant reglable en profondeur et hauteur - Pack Securite - Airbags rideaux - RegulateurLimiteur de vitesse - ABS - Aide au freinage durgence - Airbags frontaux - Airbags lateraux avant - Kit anticrevaison - Phares antibrouillard - Repartiteur electronique de freinage - Pack Climatisation automatique : 300 € TTC - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/636cdb336d886_314407459_623866036203504_2730023862080445383_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/636cdb30bdd82_315112585_533007958262629_8613496440365323072_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/636cdb30bdd82_315179852_480942480679588_1500091508966555518_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/636cdb388c18c_315199753_1585382208584843_7187671926071421675_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/636cdb388d7df_314697075_540877544540266_3442312101168420300_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/636cdb336c898_315105488_5669293339855076_3358294503109972276_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/636cdb3b08226_312356371_370157258627247_156715609473195485_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/636cdb361309a_315098554_682818056737215_224257185877049489_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/636cdb3615e09_315228100_6031676890196420_3754896385154131591_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11000</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>15/10/2010</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2010</millesime>
+      <kilometrage>73750</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Citroën]]></marque>
+      <modele><![CDATA[Citroën C3]]></modele>
+      <carrosserie><![CDATA[coupé]]></carrosserie>
+      <energie><![CDATA[GO]]></energie>
+      <couleur><![CDATA[GRIS]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[II 1.6 HDi90 (92) FAP  Confort]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle>92</puissance_reelle>
+      <numero_serie>VF7SC9HP4AW535310</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>8490</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1739123">
+    <reference><![CDATA[1739]]></reference>
+    <date_saisie>15/11/2022</date_saisie>
+    <titre><![CDATA[Peugeot 208  1.6 THP 208ch GTi S&S 3p]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Commandes du systeme audio au volant - Ecran multifonction couleur - GPS Cartographique - Interface Media - Kit mainslibres Bluetooth - Prise Jack - Prise USB - Radio - 6 Haut parleurs - Peugeot Connect SOS et Assistance - Appel dAssistance Localise - Appel dUrgence Localise - Pack visibilite - Allumage des phares automatique - Capteur de pluie - Retroviseur interieur electrochrome - Aide au demarrage en cote - Arret et redemarrage auto. du moteur - Limiteur de vitesse - Regulateur de vitesse - Suspensions Sport - Camera de recul - Camera de recul - Radar de stationnement AR - Becquet arriere - Boucliers AV et AR couleur caisse - Calandre chromee - Ceinture de vitrage chromee - Echappement a double sortie - Eclairage statique dintersection - Essuieglace arriere - Feux arriere a LED - Feux de freinage durgence - Feux de jour a LED - Jantes Alu - Phares halogenes - Radar de stationnement AR - Repetiteurs de clignotant dans retro ext - Retroviseurs degivrants - Retroviseurs electriques - Retroviseurs rabattables electriquement - Sortie dechappement chromee - Vitrage arriere surteinte - Bacs de portes avant - Banquette AR rabattable - Banquette arriere 3 places - Banquette 1323 - Filtre a Pollen - Lampe de coffre - Miroir de courtoisie conducteur eclaire - Miroir de courtoisie passager eclaire - Ordinateur de bord - Ouverture des vitres sequentielle - Prise 12V - Sieges AV reglables en hauteur - Sieges avant sport - Temperature exterieure - Verrouillage auto. des portes en roulant - Verrouillage centralise a distance - Vitres avant electriques - Vitres teintees - Volant cuir - Volant reglable en profondeur et hauteur - Volant sport - ABS - Aide au freinage durgence - Airbag conducteur - Airbag passager deconnectable - Airbags lateraux avant - Airbags rideaux AV et AR - Antidemarrage electronique - Antipatinage - Detecteur de sousgonflage indirect - EBD - ESP - Kit anticrevaison - Preparation Isofix - Proj. antibrouillard avec enj. chromes - Troisieme ceinture de securite - Micuir Nappa  maille Caro : 0 € TTC - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63848181686cd_IMG_2917.JPG</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638481818148b_IMG_2920.JPG</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6384818893a6b_IMG_2921.JPG</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6384818f53b33_IMG_2925.JPG</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6384818cdd5c8_IMG_2923.JPG</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63848193820ca_IMG_29272.JPG</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6384819644223_IMG_2929.JPG</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11100</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>20/03/2017</mise_en_circulation>
+      <numero_immatriculation>EK-358-YD</numero_immatriculation>
+      <millesime>2017</millesime>
+      <kilometrage>58500</kilometrage>
+      <nb_rapports>6</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Peugeot]]></marque>
+      <modele><![CDATA[Peugeot 208]]></modele>
+      <carrosserie><![CDATA[berline]]></carrosserie>
+      <energie><![CDATA[ESSENCE]]></energie>
+      <couleur><![CDATA[BLANC]]></couleur>
+      <cylindree>1598</cylindree>
+      <version><![CDATA[ 1.6 THP 208ch GTi S&S 3p]]></version>
+      <emission_co2>125</emission_co2>
+      <nb_portes>3</nb_portes>
+      <nb_places>5</nb_places>
+      <poids>1160</poids>
+      <puissance_fiscale>11</puissance_fiscale>
+      <puissance_reelle>208</puissance_reelle>
+      <numero_serie>VF3CA5GRMHW048966</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>16990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1742388">
+    <reference><![CDATA[1742]]></reference>
+    <date_saisie>16/11/2022</date_saisie>
+    <titre><![CDATA[Opel Combo  1.3 CDTI75 FAP Enjoy]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Filtre a particules - Banquette 1323 - Direction assistee - Verrouillage centralise des portes - Vitres avant electriques - ABS - Airbag conducteur - Airbags frontaux - Radio CD : 450 € TTC - Clim manuelle : 1 080 € TTC - Airbags lateraux avant : 350 € TTC - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/637507915efa6_315882662_2272851426254713_766536925821170127_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63750770a8389_315151098_520616733295373_2708841725308475536_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/637507780589c_315521504_5980325592034355_6954764843342303757_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/637507983123c_315903367_1785975608436586_1152362640717713459_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63750778080da_315473758_5585439201540652_142578493324676931_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/637507916c2fa_315894966_696406531679295_4390425544264152179_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63750770c1ad0_315357325_925699985482889_7619686884020017681_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6375077eb5111_315526337_506394161432277_2398037729368511248_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63750780a602c_315532232_4390077397783549_6865627587058177172_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>12100</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>10/11/2009</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2009</millesime>
+      <kilometrage>90041</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Opel]]></marque>
+      <modele><![CDATA[Opel Combo]]></modele>
+      <carrosserie><![CDATA[utilitaire]]></carrosserie>
+      <energie><![CDATA[diesel]]></energie>
+      <couleur><![CDATA[blanc ]]></couleur>
+      <cylindree>1248</cylindree>
+      <version><![CDATA[ 1.3 CDTI75 FAP Enjoy]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle></puissance_reelle>
+      <numero_serie>WOLOXCF25A4047286</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>5990</prix>
+      <prix_marchand>5000</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1749135">
+    <reference><![CDATA[1749]]></reference>
+    <date_saisie>18/11/2022</date_saisie>
+    <titre><![CDATA[Opel Corsa IV 1.3 CDTI75 Enjoy 5p]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Radio CD MP3 - Retroviseurs electriques - Banquette 1323 - Clim manuelle - Direction assistee - Fixations Isofix aux places arrieres - Verrouillage centralise des portes - Vitres avant electriques - Volant reglable en profondeur et hauteur - ABS - Airbags frontaux - Airbags lateraux avant - Airbags rideaux - Pack visibilite : 100 € TTC - Jantes Alu : 550 € TTC - Peinture metal : 400 € TTC - Radar de recul : 300 € TTC - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63779ece81de9_315535113_1141567549820613_3704413377202977215_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63779ec85a731_315532234_507523541397660_2446250208165098677_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63779ebb040a0_310312789_1265906223972005_8524658249331456081_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63779ebb1177d_315522851_1183406739249527_52188354181367481_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63779ec1aa860_315526713_1311333682948329_1683492546322021260_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63779ec7ee82d_315527181_1292342541587373_2995935620630399564_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63779f2cc4159_315915193_651780233260782_46265795219097201_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63779f2cc4264_315867449_784795375947155_2659764758852533867_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11100</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>11/02/2008</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2008</millesime>
+      <kilometrage>121000</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Opel]]></marque>
+      <modele><![CDATA[Opel Corsa]]></modele>
+      <carrosserie><![CDATA[berline]]></carrosserie>
+      <energie><![CDATA[diesel]]></energie>
+      <couleur><![CDATA[Bleu]]></couleur>
+      <cylindree>1248</cylindree>
+      <version><![CDATA[IV 1.3 CDTI75 Enjoy 5p]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle></puissance_reelle>
+      <numero_serie>WOLOSDL6884177190</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>5490</prix>
+      <prix_marchand>3500</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1771427">
+    <reference><![CDATA[1771]]></reference>
+    <date_saisie>05/12/2022</date_saisie>
+    <titre><![CDATA[Peugeot Partner  1.6 BlueHDi 100ch Style]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Limiteur de vitesse - Regulateur de vitesse - Boucliers AV et AR couleur caisse - Feux de position a LED - Phares antibrouillard - Phares antibrouillard directionnels - Pack Plus - Retroviseurs electriques - Verrouillage centralise a distance - Verrouillage centralise des portes - Vitres avant electriques - Barres de toit longitudinales - Essuieglace arriere - Feux de freinage durgence - Filtre a particules - Phares halogenes - Ecran tactile - Kit mainslibres Bluetooth - Prise USB - Radio - Condamnation securite enfants electrique - Miroir surveillance enfant places AR - Stores de vitres laterales - Accoudoir central AV - Bacs de portes arriere - Bacs de portes avant - Boite a gant fermee - Cachebagage rigide - Compte tours - Kit Fumeur - Lampe de coffre - Lampes de lecture a lavant - Miroir de courtoisie conducteur - Miroir de courtoisie passager - Poches daumonieres - Pommeau de levier de vitesse metal - Portegobelets arriere - Portegobelets avant - Prise 12V - Siege conducteur reglable en hauteur - Siege passager avec dossier repliable - Sieges rang 2 rabattables a plat - Verrouillage auto. des portes en roulant - Volant reglable en profondeur et hauteur - 3 sieges individuels en rang 2 - ABS - Aide au freinage durgence - Airbag conducteur - Airbag passager deconnectable - Airbags lateraux avant - Antidemarrage electronique - Antipatinage - Ceintures avant ajustables en hauteur - Detecteur de sousgonflage indirect - EBD - ESP - Phares antibrouillard - Preparation Isofix - Temoin de bouclage des ceintures AV - Troisieme ceinture de securite - Attelage  - Climatisation  - Blanc Banquise : 0 € TTC - Pack Urbain : 370 € TTC - transformateur 12v 220v : 990 euros  - <br><br>PRIX TTC     11280  EUROS <br />
+PRIX HT.      9400 EUROS <br />
+<br />
+transformateur 12v 220v<br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638dbe0f866d0_318093991_2048780838650651_4476250697390118183_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638dbe20841a4_318303738_545244360408241_6153719057898719163_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638dbe090e973_318019128_810168990056828_3604218009665316256_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638dbe1a11205_318171877_438869568267770_3219280560698745113_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638dbe1a0fb83_318200113_693294522310608_8847912073159757800_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638dbe01ef529_317951130_684708923248236_5256711631983187047_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638dbe0210228_317961879_1633717043752860_3551700911548294852_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638dbe0d6bf50_318093061_528205559323715_6629809055784086132_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>12100</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>07/07/2017</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2017</millesime>
+      <kilometrage>125381</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Peugeot]]></marque>
+      <modele><![CDATA[Peugeot Partner]]></modele>
+      <carrosserie><![CDATA[utilitaire]]></carrosserie>
+      <energie><![CDATA[diesel]]></energie>
+      <couleur><![CDATA[blanc ]]></couleur>
+      <cylindree>1560</cylindree>
+      <version><![CDATA[ 1.6 BlueHDi 100ch Style]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle></puissance_reelle>
+      <numero_serie>VF37CBHY6HN519476</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>11388</prix>
+      <prix_marchand>9000</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+      <soumis_tva>O</soumis_tva>
+      <taux_tva>1898</taux_tva>
+    </offre>
+  </annonce>
+  <annonce id="1773637">
+    <reference><![CDATA[1773]]></reference>
+    <date_saisie>06/12/2022</date_saisie>
+    <titre><![CDATA[Peugeot Partner  1.6 BlueHDi 100ch Style]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Aide au demarrage en cote - Limiteur de vitesse - Regulateur de vitesse - Boucliers AV et AR couleur caisse - Feux de position a LED - Phares antibrouillard - Phares antibrouillard directionnels - Pack Plus - Retroviseurs electriques - Verrouillage centralise a distance - Verrouillage centralise des portes - Vitres avant electriques - Barres de toit longitudinales - Enjoliveurs - Essuieglace arriere - Feux de freinage durgence - Filtre a particules - Phares halogenes - Kit mainslibres Bluetooth - Prise USB - Radio - Pack Enfants - Condamnation securite enfants electrique - Miroir surveillance enfant places AR - Stores de vitres laterales - Accoudoir central AV - Bacs de portes arriere - Bacs de portes avant - Boite a gant fermee - Cachebagage rigide - Compte tours - Kit Fumeur - Lampe de coffre - Lampes de lecture a lavant - Lunette arriere ouvrante - Miroir de courtoisie conducteur - Miroir de courtoisie passager - Poches daumonieres - Pommeau de levier de vitesse metal - Portegobelets arriere - Portegobelets avant - Prise 12V - Siege conducteur reglable en hauteur - Siege passager avec dossier repliable - Sieges rang 2 deposables - Sieges rang 2 inclinables - Sieges rang 2 rabattables a plat - Verrouillage auto. des portes en roulant - Vitres teintees - Volant reglable en profondeur et hauteur - 3 sieges individuels en rang 2 - ABS - Aide au freinage durgence - Airbag conducteur - Airbag passager deconnectable - Airbags lateraux avant - Antidemarrage electronique - Antipatinage - Ceintures avant ajustables en hauteur - Detecteur de sousgonflage indirect - EBD - ESP - Phares antibrouillard - Preparation Isofix - Temoin de bouclage des ceintures AV - Troisieme ceinture de securite - 1 portes laterales - Blanc Banquise : 0 € TTC - Barre de toit rhino  : 890 - Attelage  - <br><br>tva récuperablen2 places nPrix ht 9690 euros nPrix ttc 11628 euros nnbarre de toit rhino réglable <br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638f18a65c5e1_318643591_520124923377151_7762772923885743242_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638f187fa40c9_318187952_707276950826816_2246705579040452025_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638f18822bb2b_318304359_3280400488839060_386149034889008242_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638f187fab940_318187953_855171539066406_6347100599484691534_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638f187c7ee30_318174053_1224124068174244_645753031116012779_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638f187c7ee36_318026160_406061801658374_2045764761587269028_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/638f18a65d0c5_318502097_863905034928988_3935533579948402155_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>12100</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>06/06/2017</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2017</millesime>
+      <kilometrage>121634</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Peugeot]]></marque>
+      <modele><![CDATA[Peugeot Partner]]></modele>
+      <carrosserie><![CDATA[utilitaire]]></carrosserie>
+      <energie><![CDATA[diesel]]></energie>
+      <couleur><![CDATA[blanc ]]></couleur>
+      <cylindree>1560</cylindree>
+      <version><![CDATA[ 1.6 BlueHDi 100ch Style]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle></puissance_reelle>
+      <numero_serie>VF37CBHY6HN517786</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>11628</prix>
+      <prix_marchand>9600</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+      <soumis_tva>O</soumis_tva>
+      <taux_tva>1938</taux_tva>
+    </offre>
+  </annonce>
+  <annonce id="1778141">
+    <reference><![CDATA[1778]]></reference>
+    <date_saisie>07/12/2022</date_saisie>
+    <titre><![CDATA[Peugeot 107  1.0 12v Trendy 3p]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Banquette 5050 - Compte tours - Direction assistee - Verrouillage centralise des portes - Vitres avant electriques - ABS - Airbags frontaux - Airbags lateraux avant - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6390b3374d989_317820466_1202477977367931_1841515799531343769_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6390b3322abfd_318109430_1530426644142264_1208574115350465886_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6390b32f38f71_318343504_391627929789941_2508044369586551301_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6390b33755950_318228013_2931853530456040_6143759717757656933_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6390b32f38f71_317585241_852368412579214_1643690661516564377_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6390b334b79ed_317953379_665565701874936_3449210982304026239_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6390b3322d46f_318604218_387967750180461_477365603834635704_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6390b334b6ce2_317939174_851531526267775_8459893968389106043_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11000</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>06/01/2006</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2006</millesime>
+      <kilometrage>157900</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Peugeot]]></marque>
+      <modele><![CDATA[Peugeot 107]]></modele>
+      <carrosserie><![CDATA[coupé]]></carrosserie>
+      <energie><![CDATA[ES]]></energie>
+      <couleur><![CDATA[ROUGE]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[ 1.0 12v Trendy 3p]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>3</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle>68</puissance_reelle>
+      <numero_serie>VF3PMCFAC88114983</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>4490</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1779424">
+    <reference><![CDATA[1779]]></reference>
+    <date_saisie>08/12/2022</date_saisie>
+    <titre><![CDATA[Peugeot Partner  1.6 HDi75 Confort]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Direction assistee - ABS - Airbags frontaux - Clim manuelle : 1 100 € TTC - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6392155ca6442_318043325_1223898358468451_5518709807055684405_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6392155ca71f2_317832919_878498413159831_8034785683693697066_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639215546cce9_318004847_915760089802688_5005364361630844513_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6392155a184b1_318205779_698688351819604_2752046164215462738_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6392155789e6c_317853869_437618031914948_7317304708959022160_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639215546beec_318021997_838941567335031_4923076450306534715_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6392155791dde_318225026_819638822619153_3340233784379012868_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6392155a1b691_318144657_661245005707435_1628313153348841522_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>12100</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>22/03/2006</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2006</millesime>
+      <kilometrage>196000</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Peugeot]]></marque>
+      <modele><![CDATA[Peugeot Partner]]></modele>
+      <carrosserie><![CDATA[utilitaire]]></carrosserie>
+      <energie><![CDATA[GO]]></energie>
+      <couleur><![CDATA[Bleu]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[ 1.6 HDi75 Confort]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>2</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle>75</puissance_reelle>
+      <numero_serie>VF3GB9HWC96190172</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>4990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1781305">
+    <reference><![CDATA[1781]]></reference>
+    <date_saisie>12/12/2022</date_saisie>
+    <titre><![CDATA[Ford Transit Custom  2.2 TDCi 125 L2H1 330 Trend]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Prise auxiliaire de connexion audio - Prise Jack - Prise USB - Aide au demarrage en cote - Arret et redemarrage auto. du moteur - Limiteur de vitesse - Regulateur de vitesse - Tissu LaneMax Gris Fonce - Gris - Sellerie tissu - Boucliers AV et AR couleur caisse - Eclairage statique dintersection - Feux de jour - Filtre a particules - Phares additionnels en virage - Phares halogenes - Retroviseurs degivrants - Retroviseurs electriques - Vitres arriere et lunette AR surteintees - 2 Portes laterales coulissantes - Bacs de portes avant - Banquette AR rabattable - Banquette arriere 3 places - Banquette 1323 - Boite a gant fermee - Clim manuelle - Compte tours - Direction assistee - Ecran multifonction couleur - Filtre a Pollen - Lampe de coffre - Lampes de lecture a lavant - Lunette AR degivrante - Ordinateur de bord - Portegobelets avant - Prise 12V - Siege passager avec dossier repliable - Sieges rang 2 deposables - Sieges rang 3 deposables - Sieges rang 3 rabattables - Verrouillage centralise a distance - Vitres avant electriques - Vitres teintees - Volant cuir + commandes audio au volant - Volant metal - 2eme banquette a larriere - 3eme rangee de sieges - ABS - Airbag conducteur - Antidemarrage electronique - Antipatinage - Ceintures avant ajustables en hauteur - EBD - ESP - Phares antibrouillard directionnels - Preparation Isofix - Troisieme ceinture de securite - 5 places  - Systeme audio CD IP4 : 421 € TTC - JA 16 21565 : 697 € TTC - Clim manuel Ar. : 903 € TTC - Sieges Av. chauff. : 361 € TTC - <br><br>Premiere main <br />
+5 places <br />
+pas de tva <br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639c4b9bb232f_318825161_855209672343043_4311795533279477180_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639c4b992dca3_319050572_811328309966909_4924613320450982748_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639c4b992dca8_318616024_545643270776708_3428050027670988893_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639c4ba32dc4a_319723253_691225092413667_4984171458792818320_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639c4ba0c300f_319333313_461717162793577_3721188511808495686_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639c4ba0b972a_319994077_690329079111936_494160914845048565_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639c4b9bb8a81_318536890_839379627281601_3743914237471454653_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639c4b9e51890_320217413_1877571279253445_5964513749503093947_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639c4b9e51890_318657356_712631003381269_5099107843648241968_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/639c4ba32a733_318139206_843986403576188_180513767258435568_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>12100</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>10/10/2014</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2014</millesime>
+      <kilometrage>105000</kilometrage>
+      <nb_rapports>6</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Ford]]></marque>
+      <modele><![CDATA[Ford Transit Custom]]></modele>
+      <carrosserie><![CDATA[utilitaire]]></carrosserie>
+      <energie><![CDATA[diesel]]></energie>
+      <couleur><![CDATA[beige]]></couleur>
+      <cylindree>2200</cylindree>
+      <version><![CDATA[ 2.2 TDCi 125 L2H1 330 Trend]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle></puissance_reelle>
+      <numero_serie>WF0ZXXTTGZEB82622</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>23990</prix>
+      <prix_marchand>20000</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1782532">
+    <reference><![CDATA[1782]]></reference>
+    <date_saisie>12/12/2022</date_saisie>
+    <titre><![CDATA[Dacia Duster  1.5 dCi 110 FAP Ambiance 4x2]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Barres de toit - Enjoliveurs - Filtre a particules - Pack modularite - Banquette 1323 - Siege conducteur reglable en hauteur - Compte tours - Direction assistee - Fixations Isofix aux places arrieres - Kit Fumeur - Lunette AR degivrante - Verrouillage centralise des portes - Vitres teintees - Pack confort - Airbags lateraux avant - Verrouillage centralise a distance - Vitres avant electriques - ABS - Aide au freinage durgence - Airbag passager deconnectable - Airbags frontaux - Antidemarrage electronique - Kit de depannage pneumatique - Radio CD MP3 + commandes au volant : 290 € TTC - Peinture metal : 450 € TTC - Clim manuelle : 900 € TTC - Antipatinage : 0 € TTC - ESP : 300 € TTC - Phares antibrouillard : 150 € TTC - <br><br>kit distribution chez Renault en avril 2019 <br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6396ec42befd0_318584293_3375677589347813_9202625373336105267_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6396ec3104866_317908758_545121077172326_2884898092180369046_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6396ec498d3d7_318909740_1350656669013551_7783813211406948705_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6396ec258fa5c_317861216_1156981644925413_4839679645173266002_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6396ec42d4d86_318249147_573183534717566_4367438663686225897_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6396ec2592d51_317856578_469530935106813_8439530005340656600_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6396ec30e7132_317946738_702156107869258_830240839447939688_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6396ec37d0420_318033682_718164609364229_6315529101733316650_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/6396ec498d6de_318613162_453523806972149_6277065905301498001_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11000</code_type>
+      <premiere_main>O</premiere_main>
+      <mise_en_circulation>10/01/2011</mise_en_circulation>
+      <numero_immatriculation>BF370ZF</numero_immatriculation>
+      <millesime>2011</millesime>
+      <kilometrage>176000</kilometrage>
+      <nb_rapports>6</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Dacia]]></marque>
+      <modele><![CDATA[Dacia Duster]]></modele>
+      <carrosserie><![CDATA[4X4]]></carrosserie>
+      <energie><![CDATA[GAZOLE]]></energie>
+      <couleur><![CDATA[BLEU]]></couleur>
+      <cylindree>1461</cylindree>
+      <version><![CDATA[ 1.5 dCi 110 FAP Ambiance 4x2]]></version>
+      <emission_co2>139</emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places>5</nb_places>
+      <poids>1205</poids>
+      <puissance_fiscale>6</puissance_fiscale>
+      <puissance_reelle>107</puissance_reelle>
+      <numero_serie>UU1HSDAC644052346</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>6990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1784675">
+    <reference><![CDATA[1784]]></reference>
+    <date_saisie>13/12/2022</date_saisie>
+    <titre><![CDATA[Kia Picanto III 1.0 67ch Active]]></titre>
+    <texte><![CDATA[<br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63a03a0aad383_319707495_1515204328991706_386420720540085895_nCopie.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63a03a14ef2ad_320477427_444649501041852_7260536936879314367_nCopie.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63a03a0d71e2a_320527113_1189207642020963_914396150569570638_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63a03a10002da_320240797_502635895030290_7927181552969493192_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63a03a1005fbf_319766257_622326799666943_2445622219965432799_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63a03a0aad383_319134001_540019574809235_3058019572321726593_nCopie.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63a03a1269d4f_318817320_539717804702291_8888486549427529239_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63a03a0d65ae1_319696325_1479521609236808_4587644628246368863_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63a03a12711ca_318940719_687168656144670_522041326889754532_nCopie.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11100</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>01/03/2018</mise_en_circulation>
+      <numero_immatriculation>EV-381-KR</numero_immatriculation>
+      <millesime>2018</millesime>
+      <kilometrage>50000</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Kia]]></marque>
+      <modele><![CDATA[Kia Picanto]]></modele>
+      <carrosserie><![CDATA[berline]]></carrosserie>
+      <energie><![CDATA[ESSENCE]]></energie>
+      <couleur><![CDATA[ROUGE]]></couleur>
+      <cylindree>998</cylindree>
+      <version><![CDATA[III 1.0 67ch Active]]></version>
+      <emission_co2>101</emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places>5</nb_places>
+      <poids>860</poids>
+      <puissance_fiscale>4</puissance_fiscale>
+      <puissance_reelle>67</puissance_reelle>
+      <numero_serie>KNAB2511AJT190804</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>9990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1796372">
+    <reference><![CDATA[1796]]></reference>
+    <date_saisie>19/12/2022</date_saisie>
+    <titre><![CDATA[Ford Fiesta 1,4 TDCI 68 CH CLIM ]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => CLIM MANUELLE - 2 roues motrices - radar de recul - banquette 13 23 - allume cigare - direction assistee - non fumeur - ordinateur de bord - prise 12V - 3e feu stop - fermeture electrique - vitres electriques - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bc1e6580628_322463442_8464675676938722_5551145345180084525_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bc1e5f9f30e_321913941_1235704127018073_6915745350403804047_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bc1e6892f8a_324642220_927335434920201_2864395621455782971_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bc1e658bffa_320898893_1119268562804851_1719507130696327173_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bc1e6809f4c_322859733_1332273440930878_3196124967975206798_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bc1e62e38bc_323577072_588560646442588_7307882472305299633_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bc1e5f9f41d_322394015_775750864160522_3323829741555327852_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bc1e62e3776_322039929_708678440879043_2131613766544780239_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11100</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>30/09/2005</mise_en_circulation>
+      <numero_immatriculation>BC-232-QF</numero_immatriculation>
+      <millesime>2005</millesime>
+      <kilometrage>189000</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Ford]]></marque>
+      <modele><![CDATA[Ford Fiesta]]></modele>
+      <carrosserie><![CDATA[berline]]></carrosserie>
+      <energie><![CDATA[GAZOLE]]></energie>
+      <couleur><![CDATA[GRIS]]></couleur>
+      <cylindree>1399</cylindree>
+      <version><![CDATA[1,4 TDCI 68 CH CLIM ]]></version>
+      <emission_co2>116</emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places>5</nb_places>
+      <poids>1066</poids>
+      <puissance_fiscale>4</puissance_fiscale>
+      <puissance_reelle>68</puissance_reelle>
+      <numero_serie>WF0HXXWPJH5B39326</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>3490</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1807862">
+    <reference><![CDATA[1807]]></reference>
+    <date_saisie>02/01/2023</date_saisie>
+    <titre><![CDATA[Renault Trafic III 1.6 dCi 90 L1 Life]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Sellerie Kario noir - Enjoliveurs - Essuieglace arriere - Feux de jour - Phares halogenes - Porte laterale arriere droite - Retroviseurs electriques - Bacs de portes avant - Banquette AV 2 places monobloc - Boite a gant fermee - Compte tours - Ordinateur de bord - Plancher caoutchouc - Prise 12V - Siege conducteur reglable en hauteur - Tablette cache bagages - Verrouillage auto. des portes en roulant - Verrouillage centralise a distance - Vitres avant electriques - Vitres teintees - ABS - Aide au freinage durgence - Airbag conducteur - Airbag passager - Airbag passager deconnectable - Antidemarrage electronique - Antipatinage - Controle de Traction - Controle de Traction Intelligent - ESP - Preparation Isofix - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c819455e127_321954225_542341501160935_5979135497827307389_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c819406d462_324764789_578218893730845_1865529165541892887_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c8193da2b68_324615548_834038057663196_3787926833365532242_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c8194305620_324437328_5541658265943635_6841506836510688316_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c81942e4654_324217810_977687733637006_7878311595026206616_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c819406d293_325102508_691248435813388_9108505039166378940_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c8193da2d5e_324450252_743145810856490_9112609025472004103_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>12100</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>29/10/2014</mise_en_circulation>
+      <numero_immatriculation>DL-885-JD</numero_immatriculation>
+      <millesime>2014</millesime>
+      <kilometrage>171000</kilometrage>
+      <nb_rapports>6</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Renault]]></marque>
+      <modele><![CDATA[Renault Trafic]]></modele>
+      <carrosserie><![CDATA[utilitaire]]></carrosserie>
+      <energie><![CDATA[GAZOLE]]></energie>
+      <couleur><![CDATA[BLANC]]></couleur>
+      <cylindree>1598</cylindree>
+      <version><![CDATA[III 1.6 dCi 90 L1 Life]]></version>
+      <emission_co2>160</emission_co2>
+      <nb_portes>3</nb_portes>
+      <nb_places>3</nb_places>
+      <poids>1665</poids>
+      <puissance_fiscale>5</puissance_fiscale>
+      <puissance_reelle>90</puissance_reelle>
+      <numero_serie>VF14FL10251977303</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>11990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1819943">
+    <reference><![CDATA[1819]]></reference>
+    <date_saisie>11/01/2023</date_saisie>
+    <titre><![CDATA[Citroën Berlingo BlueHDI 100CV ]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => ATTELAGE - 2 roues motrices - ESP - direction assistee - ordinateur de bord - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c7f14b43e48_325501826_1531367920675451_7145300045454298542_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c7f150dff6e_322975576_874522457217678_5883546181749461664_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c7f14b43e47_321931530_563692218943947_5258942775588016949_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c7f153a9fac_325034352_572212744423563_3187712405092917850_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c7f14e67b1c_324969056_726932182136620_3886445450554994934_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c7f14e4df7d_324681538_570996834541569_3064811380692951180_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c7f150dd4d6_321717129_728907728649647_4279800756360472628_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>12100</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>30/07/2018</mise_en_circulation>
+      <numero_immatriculation>EZ-191-LD</numero_immatriculation>
+      <millesime>2018</millesime>
+      <kilometrage>38500</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Citroën]]></marque>
+      <modele><![CDATA[Citroën Berlingo]]></modele>
+      <carrosserie><![CDATA[utilitaire]]></carrosserie>
+      <energie><![CDATA[GAZOLE]]></energie>
+      <couleur><![CDATA[BLANC]]></couleur>
+      <cylindree>1560</cylindree>
+      <version><![CDATA[BlueHDI 100CV ]]></version>
+      <emission_co2>111</emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places>2</nb_places>
+      <poids>1307</poids>
+      <puissance_fiscale>5</puissance_fiscale>
+      <puissance_reelle>99</puissance_reelle>
+      <numero_serie>VR7EFBHYBJJ732269</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>16990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1820174">
+    <reference><![CDATA[1820]]></reference>
+    <date_saisie>12/01/2023</date_saisie>
+    <titre><![CDATA[Ford C Max II 1.6 TDCi 95ch FAP Trend]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Radio CD MP3 - Limiteur de vitesse - Regulateur de vitesse - Becquet arriere - Boucliers AV et AR couleur caisse - Essuieglace arriere - Feux de freinage durgence - Filtre a particules - Phares halogenes - Retroviseurs degivrants - Retroviseurs electriques - Accoudoir arriere - Accoudoir central AR avec trappe a skis - Bacs de portes arriere - Bacs de portes avant - Banquette AR rabattable - Boite a gant fermee - Clim manuelle - Compte tours - Direction assistee asservie a la vitesse - Filtre a Pollen - Kit Fumeur - Lampe de coffre - Lampes de lecture a lavant - Miroir de courtoisie conducteur eclaire - Miroir de courtoisie passager eclaire - Ordinateur de bord - Ouverture des vitres sequentielle - Pommeau de levier vitesse en cuir - Portegobelets arriere - Portegobelets avant - Prise 12V - Siege conduct  reglable hauteurlombaire - Sieges rang 2 deposables - Sieges rang 2 rabattables a plat - Tablette cache bagages - Temperature exterieure - Verrouillage centralise a distance - Vitres arriere electriques - Vitres avant electriques - Vitres teintees - Volant cuir + commandes audio au volant - Volant reglable en profondeur et hauteur - 3 sieges individuels en rang 2 - Configuration 5 places - Sellerie tissu - ABS - Aide au freinage durgence - Airbag conducteur - Airbag passager - Airbags lateraux avant - Airbags rideaux AV et AR - Antidemarrage electronique - Antipatinage - Ceintures avant ajustables en hauteur - EBD - ESP - Kit anticrevaison - Phares antibrouillard - Preparation Isofix - Troisieme ceinture de securite - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bfc51c599f3_324464384_1497898707363158_1004410609200166271_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bfc5197b601_322675648_542873844440238_6318591562761822926_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bfc51f296f5_321783164_1094858027963876_6562169936257705999_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bfc5197b5b6_323734645_532479545504391_278731138713420151_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bfc51f20f5f_321542393_1182921008996406_7411835966630003127_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bfc521c357d_321878579_881109726419361_3882581381229184082_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bfc5243a4b6_322368853_725175128915632_5570297595181663461_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63bfc51c5b350_324975931_2351288268360454_5610182042669705822_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11300</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>19/06/2012</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2012</millesime>
+      <kilometrage>98000</kilometrage>
+      <nb_rapports>6</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Ford]]></marque>
+      <modele><![CDATA[Ford C Max]]></modele>
+      <carrosserie><![CDATA[monospace]]></carrosserie>
+      <energie><![CDATA[GO]]></energie>
+      <couleur><![CDATA[noir]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[II 1.6 TDCi 95ch FAP Trend]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>5</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle>95</puissance_reelle>
+      <numero_serie>WF0JXXWPBJCA62251</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>9990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1824612">
+    <reference><![CDATA[1824]]></reference>
+    <date_saisie>12/01/2023</date_saisie>
+    <titre><![CDATA[Citroën DS3  1.6 e-HDi90 So Chic 4cv]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Prise auxiliaire de connexion audio - Prise Jack - Radio CD MP3 6HP - Arret et redemarrage auto. du moteur - Limiteur de vitesse - Regulateur de vitesse - Boucliers AV et AR couleur caisse - Calandre chromee - Essuieglace arriere - Feux de freinage durgence - Feux de jour - Filtre a particules - Lum. DRL a LED dans les entrees dair - Vitres arriere et lunette AR surteintees - Phares halogenes - Repetiteurs de clignotant dans retro ext - Retroviseurs electriques - Sortie dechappement chromee - Bacs de portes arriere - Bacs de portes avant - Banquette AR rabattable - Banquette arriere 3 places - Banquette 1323 - Boite a gant fermee - Clim manuelle - Climatisation manuelle - Compte tours - Filtre a Pollen - Lampe de coffre - Lampes de lecture a lavant - Miroir de courtoisie conducteur eclaire - Miroir de courtoisie passager eclaire - Ordinateur de bord - Ouverture des vitres sequentielle - Poches daumonieres - Portegobelets avant - Prise 12V - Siege conducteur reglable en hauteur - Tablette cache bagages - Temperature exterieure - Verrouillage auto. des portes en roulant - Verrouillage centralise a distance - Vitres avant electriques - Vitres teintees - Volant cuir + commandes audio au volant - Volant reglable en profondeur et hauteur - Jantes alliage 16 AIRFLOW - Kit Decor Noir Brillant - ABS - Aide au freinage durgence - Airbag conducteur - Airbag passager deconnectable - Airbags lateraux avant - Airbags rideaux AV et AR - Antidemarrage electronique - Antipatinage - EBD - ESP - Kit anticrevaison - Phares antibrouillard - Preparation Isofix - Troisieme ceinture de securite - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02bce41b28_324714474_1712755959126782_8502520151968697832_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02bcbbe819_321479069_5945221768870465_8368850199171237977_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02bcbbf857_323580896_589417829691902_5301840531632952546_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02bc628a6a_324158572_1305873206643786_9062117440806457341_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02bc907691_324967295_8615853695151981_640763772115151198_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02bce42697_321877830_1212093479713775_7915138716644195389_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02bc9116a2_321547717_718781379822768_1277833820513554992_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02bd0dad15_322492243_577930123684427_6363455040834579368_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02bc6293ae_324045920_512667410855407_1001375321105198064_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11000</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>02/01/2014</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2014</millesime>
+      <kilometrage>130092</kilometrage>
+      <nb_rapports>5</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Citroën]]></marque>
+      <modele><![CDATA[Citroën DS3]]></modele>
+      <carrosserie><![CDATA[coupé]]></carrosserie>
+      <energie><![CDATA[GO]]></energie>
+      <couleur><![CDATA[NOIR]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[ 1.6 e-HDi90 So Chic 4cv]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>3</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle>90</puissance_reelle>
+      <numero_serie>VF7SA9HPKDW520227</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>9490</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1826584">
+    <reference><![CDATA[1826]]></reference>
+    <date_saisie>12/01/2023</date_saisie>
+    <titre><![CDATA[Mini Mini I (R56) One D]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Prise auxiliaire de connexion audio - Radio CD MP3 6HP - Aide au demarrage en cote - Arret et redemarrage auto. du moteur - Systeme de recuperation energie freinage - Feux arriere a LED - Filtre a particules - Retroviseurs electriques - Banquette 5050 - Direction assistee electrique - Fixations Isofix aux places arrieres - Portegobelets arriere - Portegobelets avant - Prise 12V - Siege conducteur reglable en hauteur - Systeme facilitant lacces aux places AR - Verrouillage auto. des portes en roulant - Verrouillage centralise a distance - Vitres avant electriques - Vitres teintees - Volant reglable en profondeur et hauteur - ABS - Aide au freinage durgence - Airbags frontaux - Airbags lateraux avant - Airbags rideaux - Antidemarrage electronique - Controle de freinage en courbe - Detecteur de sousgonflage - ESP - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02f23f1cf2_324680143_636162184984531_5505257393324488249_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02f2488eac_323948601_1224665084793228_8186658300024216198_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02f2680197_322478838_5679917565376666_8365856402870535135_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02f271a88b_322828253_552160753616676_6845989737687715861_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02f28d7032_322541949_741183344208805_6827937609991606115_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02f2b399d5_324530688_5732740420186225_5958602488685120100_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02f2bef543_322676320_1333647294142710_4813725223475656463_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c02f298e003_322678548_586150570021588_5421810399157265651_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11000</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>13/10/2011</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2011</millesime>
+      <kilometrage>120100</kilometrage>
+      <nb_rapports>6</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Mini]]></marque>
+      <modele><![CDATA[Mini Mini]]></modele>
+      <carrosserie><![CDATA[coupé]]></carrosserie>
+      <energie><![CDATA[GO]]></energie>
+      <couleur><![CDATA[BEIGE]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[I (R56) One D]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>3</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle>90</puissance_reelle>
+      <numero_serie>WMWSW11050T177733</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>8990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+  <annonce id="1836791">
+    <reference><![CDATA[1836]]></reference>
+    <date_saisie>19/01/2023</date_saisie>
+    <titre><![CDATA[Mini Mini I (R56) Cooper D]]></titre>
+    <texte><![CDATA[EQUIPEMENTS => Prise auxiliaire de connexion audio - Radio CD MP3 6HP - Aide au demarrage en cote - Arret et redemarrage auto. du moteur - Demarrage sans cle - Systeme de recuperation energie freinage - Feux arriere a LED - Filtre a particules - Jantes Alu 15 - Retroviseurs electriques - Banquette 5050 - Clim manuelle - Direction assistee electrique - Fixations Isofix aux places arrieres - Levier vitesse cuir - Ordinateur de bord - Portegobelets arriere - Portegobelets avant - Prise 12V - Siege conducteur reglable en hauteur - Systeme facilitant lacces aux places AR - Verrouillage auto. des portes en roulant - Verrouillage centralise a distance - Vitres avant electriques - Vitres teintees - Volant cuir - Volant reglable en profondeur et hauteur - ABS - Aide au freinage durgence - Airbags frontaux - Airbags lateraux avant - Airbags rideaux - Antidemarrage electronique - Controle de freinage en courbe - Detecteur de sousgonflage - ESP - Kit anticrevaison - Preparation Bluetooth avec interface USB : 850 € TTC - Commandes vocales : 300 € TTC - Pack City Zen 2 : 1 550 € TTC - Sticker : 130 € TTC - Toit ouvrant electrique : 1 050 € TTC - Clim automatique : 400 € TTC - Sellerie cuir : 1 500 € TTC - <br><br><br><br>]]></texte>
+    <contact_a_afficher><![CDATA[Bonafé Closse Automobile]]></contact_a_afficher>
+    <email_a_afficher>agenceautomobile08@gmail.com</email_a_afficher>
+    <telephone_a_afficher>0375760007</telephone_a_afficher>
+    <photos>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c942e276ae0_326050935_844627083308217_1759561639692625670_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c942ce73bf5_323539474_1005179694218777_181206894910492427_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c942c7a1668_323062835_971577013821478_2085190964662451230_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c942ce70245_323805371_2510099689130789_5365654966613830359_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c942de6356a_324952112_1125366111486219_4681361449395153848_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c942d532da3_324530423_1122485401762741_9156111150762078259_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c942dbc5abf_324821282_1424184498115391_6444681174842507642_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c942c79f0b1_321068829_1571036800028099_1702379501423283952_n.jpg</photo>
+      <photo>https://assets.seven-group.fr/seven-18091003/photos/source/63c942d5538c6_323954270_632655401997621_8452494458831965219_n.jpg</photo>
+    </photos>
+    <medias>
+      <media>SITE_PERSO</media>
+    </medias>
+    <vehicule>
+      <code_type>11130</code_type>
+      <premiere_main>N</premiere_main>
+      <mise_en_circulation>15/07/2011</mise_en_circulation>
+      <numero_immatriculation></numero_immatriculation>
+      <millesime>2011</millesime>
+      <kilometrage>99000</kilometrage>
+      <nb_rapports>6</nb_rapports>
+      <boite_de_vitesse>manuelle</boite_de_vitesse>
+      <marque><![CDATA[Mini]]></marque>
+      <modele><![CDATA[Mini Mini]]></modele>
+      <carrosserie><![CDATA[CITADINE]]></carrosserie>
+      <energie><![CDATA[ Gazole ]]></energie>
+      <couleur><![CDATA[NOIRE]]></couleur>
+      <cylindree></cylindree>
+      <version><![CDATA[I (R56) Cooper D]]></version>
+      <emission_co2></emission_co2>
+      <nb_portes>3</nb_portes>
+      <nb_places></nb_places>
+      <poids></poids>
+      <puissance_fiscale></puissance_fiscale>
+      <puissance_reelle>110</puissance_reelle>
+      <numero_serie>WMWSW31000T223657</numero_serie>
+    </vehicule>
+    <offre>
+      <carnet_entretien>N</carnet_entretien>
+      <prix>9990</prix>
+      <prix_marchand>0</prix_marchand>
+      <controle_technique>O</controle_technique>
+      <garantie>3 Mois Moteur Boite Pont </garantie>
+      <garantie_libelle><![CDATA[LIB GARANTIE]]></garantie_libelle>
+    </offre>
+  </annonce>
+</client>
